@@ -2,7 +2,7 @@ Package: com.yourname.vcam
 Name: VCam
 Version: 1.0.1
 Architecture: iphoneos-arm64
-Description: Virtual camera tweak - bundle whitelist build (camera/wechat/photos/facetime/tiktok), rootless
+Description: Virtual camera - replaces the live preview with a looping video (preview-layer build)
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
