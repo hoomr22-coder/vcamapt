@@ -1,13 +1,13 @@
 Package: com.yourname.vcam
 Name: VCam
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
-Description: Open source virtual camera tweak - replaces camera feed with a video (rootless, all-process injection)
+Description: Virtual camera tweak - bundle whitelist build (camera/wechat/photos/facetime/tiktok), rootless
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Filename: ./debs/com.yourname.vcam_1.0.0_iphoneos-arm64.deb
-Size: 17272
-SHA256: 57dd4bf0389ea2ce4e15240633266c557953c4341480931d6c54330b6f6852d1
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.yourname.vcam_1.0.1_iphoneos-arm64.deb
+Size: 17376
+SHA256: f890dfe0a8014ee2635af1276d28ec9efb8bee601081ceb6765eb897bca5237b
 
