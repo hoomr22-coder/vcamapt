@@ -1,8 +1,21 @@
 Package: com.yourname.vcam
 Name: VCam
+Version: 1.0.14
+Architecture: iphoneos-arm64
+Description: System-wide virtual camera; live playback watchdog
+Section: Tweaks
+Maintainer: hermes
+Author: lxxsoufahk
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.yourname.vcam_1.0.14_iphoneos-arm64.deb
+Size: 914186
+SHA256: b1a096a9e457ae95306e3daac73f137c38514421b23eabe93daa20a343159d27
+
+Package: com.yourname.vcam
+Name: VCam
 Version: 1.0.13
 Architecture: iphoneos-arm64
-Description: System-wide virtual camera; full player rebuild on stall + diagnostics
+Description: System-wide virtual camera; live playback watchdog
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
@@ -15,7 +28,7 @@ Package: com.yourname.vcam
 Name: VCam
 Version: 1.0.12
 Architecture: iphoneos-arm64
-Description: System-wide virtual camera; full player rebuild on stall + diagnostics
+Description: System-wide virtual camera; live playback watchdog
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
@@ -28,7 +41,7 @@ Package: com.yourname.vcam
 Name: VCam
 Version: 1.0.11
 Architecture: iphoneos-arm64
-Description: System-wide virtual camera; full player rebuild on stall + diagnostics
+Description: System-wide virtual camera; live playback watchdog
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
@@ -41,7 +54,7 @@ Package: com.yourname.vcam
 Name: VCam
 Version: 1.0.10
 Architecture: iphoneos-arm64
-Description: System-wide virtual camera; full player rebuild on stall + diagnostics
+Description: System-wide virtual camera; live playback watchdog
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
@@ -54,7 +67,7 @@ Package: com.yourname.vcam
 Name: VCam
 Version: 1.0.9
 Architecture: iphoneos-arm64
-Description: System-wide virtual camera; full player rebuild on stall + diagnostics
+Description: System-wide virtual camera; live playback watchdog
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
@@ -67,7 +80,7 @@ Package: com.yourname.vcam
 Name: VCam
 Version: 1.0.8
 Architecture: iphoneos-arm64
-Description: System-wide virtual camera; full player rebuild on stall + diagnostics
+Description: System-wide virtual camera; live playback watchdog
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
@@ -80,7 +93,7 @@ Package: com.yourname.vcam
 Name: VCam
 Version: 1.0.6
 Architecture: iphoneos-arm64
-Description: System-wide virtual camera; full player rebuild on stall + diagnostics
+Description: System-wide virtual camera; live playback watchdog
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
@@ -93,7 +106,7 @@ Package: com.yourname.vcam
 Name: VCam
 Version: 1.0.4
 Architecture: iphoneos-arm64
-Description: System-wide virtual camera; full player rebuild on stall + diagnostics
+Description: System-wide virtual camera; live playback watchdog
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
@@ -106,7 +119,7 @@ Package: com.yourname.vcam
 Name: VCam
 Version: 1.0.3
 Architecture: iphoneos-arm64
-Description: System-wide virtual camera; full player rebuild on stall + diagnostics
+Description: System-wide virtual camera; live playback watchdog
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
@@ -119,7 +132,7 @@ Package: com.yourname.vcam
 Name: VCam
 Version: 1.0.2
 Architecture: iphoneos-arm64
-Description: System-wide virtual camera; full player rebuild on stall + diagnostics
+Description: System-wide virtual camera; live playback watchdog
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
