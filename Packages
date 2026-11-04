@@ -1,8 +1,21 @@
 Package: com.yourname.vcam
 Name: VCam
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Description: System-wide virtual camera (preview + photo + movie), non-blocking photo path
+Section: Tweaks
+Maintainer: hermes
+Author: lxxsoufahk
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.yourname.vcam_1.0.9_iphoneos-arm64.deb
+Size: 911446
+SHA256: 2625044f0f194e8c179803c3387578575e3decca3001351417713d9af33f3d9e
+
+Package: com.yourname.vcam
+Name: VCam
 Version: 1.0.8
 Architecture: iphoneos-arm64
-Description: System-wide virtual camera: preview + photo + movie output, global video baked in
+Description: System-wide virtual camera (preview + photo + movie), non-blocking photo path
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
@@ -15,7 +28,7 @@ Package: com.yourname.vcam
 Name: VCam
 Version: 1.0.6
 Architecture: iphoneos-arm64
-Description: System-wide virtual camera: preview + photo + movie output, global video baked in
+Description: System-wide virtual camera (preview + photo + movie), non-blocking photo path
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
@@ -28,7 +41,7 @@ Package: com.yourname.vcam
 Name: VCam
 Version: 1.0.4
 Architecture: iphoneos-arm64
-Description: System-wide virtual camera: preview + photo + movie output, global video baked in
+Description: System-wide virtual camera (preview + photo + movie), non-blocking photo path
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
@@ -41,7 +54,7 @@ Package: com.yourname.vcam
 Name: VCam
 Version: 1.0.3
 Architecture: iphoneos-arm64
-Description: System-wide virtual camera: preview + photo + movie output, global video baked in
+Description: System-wide virtual camera (preview + photo + movie), non-blocking photo path
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
@@ -54,7 +67,7 @@ Package: com.yourname.vcam
 Name: VCam
 Version: 1.0.2
 Architecture: iphoneos-arm64
-Description: System-wide virtual camera: preview + photo + movie output, global video baked in
+Description: System-wide virtual camera (preview + photo + movie), non-blocking photo path
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
