@@ -1,5 +1,18 @@
 Package: com.yourname.vcam
 Name: VCam
+Version: 1.0.17
+Architecture: iphoneos-arm64
+Description: Virtual camera; volume-key menu; auto scope; fixes float-button crash
+Section: Tweaks
+Maintainer: hermes
+Author: lxxsoufahk
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.yourname.vcam_1.0.17_iphoneos-arm64.deb
+Size: 918394
+SHA256: 2939c35eb758a6f7691650eba0a4868b2e8a13c26c729d00aebf84785284773e
+
+Package: com.yourname.vcam
+Name: VCam
 Version: 1.0.16
 Architecture: iphoneos-arm64
 Description: Virtual camera; volume-key menu; scope auto-built from installed camera apps
