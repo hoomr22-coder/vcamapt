@@ -1,8 +1,21 @@
 Package: com.yourname.vcam
 Name: VCam
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Description: System-wide virtual camera (55 apps incl. Camera); global video baked in
+Section: Tweaks
+Maintainer: hermes
+Author: lxxsoufahk
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.yourname.vcam_1.0.6_iphoneos-arm64.deb
+Size: 907498
+SHA256: e370af4fe641671cde83578b7b3150325b5cd7237534bbfa8cb0b6c0b522b1ad
+
+Package: com.yourname.vcam
+Name: VCam
 Version: 1.0.4
 Architecture: iphoneos-arm64
-Description: Virtual camera - preview overlay, never injected into system Camera
+Description: System-wide virtual camera (55 apps incl. Camera); global video baked in
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
@@ -15,7 +28,7 @@ Package: com.yourname.vcam
 Name: VCam
 Version: 1.0.3
 Architecture: iphoneos-arm64
-Description: Virtual camera - preview overlay, never injected into system Camera
+Description: System-wide virtual camera (55 apps incl. Camera); global video baked in
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
@@ -28,7 +41,7 @@ Package: com.yourname.vcam
 Name: VCam
 Version: 1.0.2
 Architecture: iphoneos-arm64
-Description: Virtual camera - preview overlay, never injected into system Camera
+Description: System-wide virtual camera (55 apps incl. Camera); global video baked in
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
