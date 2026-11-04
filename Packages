@@ -1,5 +1,18 @@
 Package: com.yourname.vcam
 Name: VCam
+Version: 1.0.19
+Architecture: iphoneos-arm64
+Description: Virtual camera; volume-key menu; pull clips from PC; live warp
+Section: Tweaks
+Maintainer: hermes
+Author: lxxsoufahk
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.yourname.vcam_1.0.19_iphoneos-arm64.deb
+Size: 924910
+SHA256: d753967ceaf35e6493e001be161e0b7b85389bd7c2de9ae18dbb91a3a1b5fa5d
+
+Package: com.yourname.vcam
+Name: VCam
 Version: 1.0.18
 Architecture: iphoneos-arm64
 Description: Virtual camera; on-device live warp (photo), volume-key menu
