@@ -1,8 +1,21 @@
 Package: com.yourname.vcam
 Name: VCam
+Version: 1.0.10
+Architecture: iphoneos-arm64
+Description: System-wide virtual camera (preview + photo + movie) with playback watchdog
+Section: Tweaks
+Maintainer: hermes
+Author: lxxsoufahk
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.yourname.vcam_1.0.10_iphoneos-arm64.deb
+Size: 912774
+SHA256: e25a7f9709052f1875e07211867ba8ab46dcac378c3e311b07998376d28174c7
+
+Package: com.yourname.vcam
+Name: VCam
 Version: 1.0.9
 Architecture: iphoneos-arm64
-Description: System-wide virtual camera (preview + photo + movie), non-blocking photo path
+Description: System-wide virtual camera (preview + photo + movie) with playback watchdog
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
@@ -15,7 +28,7 @@ Package: com.yourname.vcam
 Name: VCam
 Version: 1.0.8
 Architecture: iphoneos-arm64
-Description: System-wide virtual camera (preview + photo + movie), non-blocking photo path
+Description: System-wide virtual camera (preview + photo + movie) with playback watchdog
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
@@ -28,7 +41,7 @@ Package: com.yourname.vcam
 Name: VCam
 Version: 1.0.6
 Architecture: iphoneos-arm64
-Description: System-wide virtual camera (preview + photo + movie), non-blocking photo path
+Description: System-wide virtual camera (preview + photo + movie) with playback watchdog
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
@@ -41,7 +54,7 @@ Package: com.yourname.vcam
 Name: VCam
 Version: 1.0.4
 Architecture: iphoneos-arm64
-Description: System-wide virtual camera (preview + photo + movie), non-blocking photo path
+Description: System-wide virtual camera (preview + photo + movie) with playback watchdog
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
@@ -54,7 +67,7 @@ Package: com.yourname.vcam
 Name: VCam
 Version: 1.0.3
 Architecture: iphoneos-arm64
-Description: System-wide virtual camera (preview + photo + movie), non-blocking photo path
+Description: System-wide virtual camera (preview + photo + movie) with playback watchdog
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
@@ -67,7 +80,7 @@ Package: com.yourname.vcam
 Name: VCam
 Version: 1.0.2
 Architecture: iphoneos-arm64
-Description: System-wide virtual camera (preview + photo + movie), non-blocking photo path
+Description: System-wide virtual camera (preview + photo + movie) with playback watchdog
 Section: Tweaks
 Maintainer: hermes
 Author: lxxsoufahk
