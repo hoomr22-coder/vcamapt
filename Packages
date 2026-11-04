@@ -1,5 +1,18 @@
 Package: com.yourname.vcam
 Name: VCam
+Version: 1.0.16
+Architecture: iphoneos-arm64
+Description: Virtual camera; volume-key menu; scope auto-built from installed camera apps
+Section: Tweaks
+Maintainer: hermes
+Author: lxxsoufahk
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.yourname.vcam_1.0.16_iphoneos-arm64.deb
+Size: 918388
+SHA256: 0717886eb3b225ee53e0ff987d46ac665c83a3363cce85411ef96f8fec7ead4b
+
+Package: com.yourname.vcam
+Name: VCam
 Version: 1.0.15
 Architecture: iphoneos-arm64
 Description: System-wide virtual camera; volume-key menu, no-button UI
