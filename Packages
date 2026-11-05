@@ -1,5 +1,18 @@
 Package: com.yourname.vcam
 Name: VCam
+Version: 1.0.21
+Architecture: iphoneos-arm64
+Description: Virtual camera; volume-key menu; DCIM clip channel; player swap fix
+Section: Tweaks
+Maintainer: hermes
+Author: lxxsoufahk
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.yourname.vcam_1.0.21_iphoneos-arm64.deb
+Size: 931508
+SHA256: 13db459ec9969c93a01b177014c3d83e68c5363c7337bd7577f2335c9539f4bb
+
+Package: com.yourname.vcam
+Name: VCam
 Version: 1.0.20
 Architecture: iphoneos-arm64
 Description: Virtual camera; volume-key menu; auto-pull 8899 clips; live warp
