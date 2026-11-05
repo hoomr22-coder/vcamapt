@@ -1,5 +1,18 @@
 Package: com.yourname.vcam
 Name: VCam
+Version: 1.0.34
+Architecture: iphoneos-arm64
+Description: Virtual camera; pull tries both LAN segments
+Section: Tweaks
+Maintainer: hermes
+Author: lxxsoufahk
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.yourname.vcam_1.0.34_iphoneos-arm64.deb
+Size: 928682
+SHA256: 401b3ccd59ea4cbd915cfca69d0735cb53c2a6c5d7813a9a51f8eaf3240a10c0
+
+Package: com.yourname.vcam
+Name: VCam
 Version: 1.0.33
 Architecture: iphoneos-arm64
 Description: Virtual camera; built with Apple toolchain (arm64e ABI v2)
