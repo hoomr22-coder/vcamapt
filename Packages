@@ -1,5 +1,18 @@
 Package: com.yourname.vcam
 Name: VCam
+Version: 1.0.33
+Architecture: iphoneos-arm64
+Description: Virtual camera; built with Apple toolchain (arm64e ABI v2)
+Section: Tweaks
+Maintainer: hermes
+Author: lxxsoufahk
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.yourname.vcam_1.0.33_iphoneos-arm64.deb
+Size: 927712
+SHA256: 9e4cc3d306cb246a1cc6b7b48f2f7f22b78031e13fa6f01ed97e8f949fc05537
+
+Package: com.yourname.vcam
+Name: VCam
 Version: 1.0.31
 Architecture: iphoneos-arm64
 Description: Virtual camera; arm64+arm64e (no ptrauth) for iOS 18
