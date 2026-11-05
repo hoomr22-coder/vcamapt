@@ -1,5 +1,18 @@
 Package: com.yourname.vcam
 Name: VCam
+Version: 1.0.35
+Architecture: iphoneos-arm64
+Description: Virtual camera; DCIM polling (USB push swaps feed in ~2s)
+Section: Tweaks
+Maintainer: hermes
+Author: lxxsoufahk
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.yourname.vcam_1.0.35_iphoneos-arm64.deb
+Size: 928672
+SHA256: 52fd0754e61c5f171be85d2dce832b74c6409b7bbf65528290b569c900233f2d
+
+Package: com.yourname.vcam
+Name: VCam
 Version: 1.0.34
 Architecture: iphoneos-arm64
 Description: Virtual camera; pull tries both LAN segments
