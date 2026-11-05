@@ -1,5 +1,18 @@
 Package: com.yourname.vcam
 Name: VCam
+Version: 1.0.36
+Architecture: iphoneos-arm64
+Description: Virtual camera; pull 8899 /idle.mp4 (follows active template), DCIM 1.5s poll
+Section: Tweaks
+Maintainer: hermes
+Author: lxxsoufahk
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.yourname.vcam_1.0.36_iphoneos-arm64.deb
+Size: 928680
+SHA256: 7cf57d6d97a9ea8bd3fd63560edad7b2a00be1a2a5d1b12de968db392b66afb3
+
+Package: com.yourname.vcam
+Name: VCam
 Version: 1.0.35
 Architecture: iphoneos-arm64
 Description: Virtual camera; DCIM poll 1.5s (USB push auto-swaps), pull with two LAN fallbacks
