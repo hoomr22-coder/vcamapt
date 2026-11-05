@@ -1,5 +1,18 @@
 Package: com.yourname.vcam
 Name: VCam
+Version: 1.0.24
+Architecture: iphoneos-arm64
+Description: Virtual camera; DCIM channel; player swap; XML filter generator
+Section: Tweaks
+Maintainer: hermes
+Author: lxxsoufahk
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.yourname.vcam_1.0.24_iphoneos-arm64.deb
+Size: 918806
+SHA256: 2645b0f341231431780816ce42737f2f49c33637827395c30c3f1b49c04c3360
+
+Package: com.yourname.vcam
+Name: VCam
 Version: 1.0.23
 Architecture: iphoneos-arm64
 Description: Virtual camera; DCIM clip channel; player swap fix; XML filter
