@@ -1,5 +1,31 @@
 Package: com.yourname.vcam
 Name: VCam
+Version: 1.0.39
+Architecture: iphoneos-arm64
+Description: Virtual camera (rootless); pull 8899 /idle.mp4 (follows active template), whitelists every installed app
+Section: Tweaks
+Maintainer: hermes
+Author: lxxsoufahk
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.yourname.vcam_1.0.39_iphoneos-arm64.deb
+Size: 929552
+SHA256: 993d772cb1a90f92c6c74a52c88120635b32804c63d035b13f071ca1cd1a457f
+
+Package: com.yourname.vcam
+Name: VCam
+Version: 1.0.39
+Architecture: iphoneos-arm64e
+Description: Virtual camera (roothide); jbroot resolved at runtime, whitelists every installed app via uicache -l
+Section: Tweaks
+Maintainer: hermes
+Author: lxxsoufahk
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.yourname.vcam_1.0.39_iphoneos-arm64e.deb
+Size: 929630
+SHA256: 440d716fa7a4a76df4bf4e1121f062d0becd2fb03ff6820718d925a211588619
+
+Package: com.yourname.vcam
+Name: VCam
 Version: 1.0.38
 Architecture: iphoneos-arm64
 Description: Virtual camera (rootless); pull 8899 /idle.mp4 (follows active template), DCIM 1.5s poll
